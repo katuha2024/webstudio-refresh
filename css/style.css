@@ -323,7 +323,7 @@ color: #2e2f42;
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/adaptivka/Dark-mob-1.jpg);
+    url(../images/adaptivka/Dark-mob-1.webp);
   max-width: 320px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -364,7 +364,7 @@ margin: 0 auto;
 }
  @media screen and (min-width: 768px){
   .section-one {
-   background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7) ), url(../images/adaptivka/Dark-tab-1.jpg);
+   background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7) ), url(../images/adaptivka/Dark-tab-1.webp);
   max-width:1157px;
 
 }
@@ -385,7 +385,7 @@ margin: 0 auto;
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/peopleoffic.jpg);
+    url(../images/peopleoffic.webp);
   max-width: 1440px;
   background-repeat: no-repeat;
   background-size: cover;
